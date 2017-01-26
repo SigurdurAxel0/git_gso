@@ -22,3 +22,5 @@ git clone clones a repository into a newly created directory
 4. Útgáfustyring er skjöl samþykkt af ábyrgðarmönnum og endurskoðun af uppfærslum af skjölum.
 
 5. Git leyfir hópi af fólki að vinna saman að nota sömu skrána.
+
+6. commit ætti að gera eftir hverja lausn því ef eithvað virkar ekki þá getur maður farið til baka á þann stað sem virkaði.

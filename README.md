@@ -28,3 +28,5 @@ git clone clones a repository into a newly created directory
 7. Working directory er skrá í tölvu, staging area er skrá sem geymir upplýsinga sem á að fara í commit, Repository geymir commit upplýsingar.
 
 8. Það er léttara að færa branch í commit.
+
+9. Linus Torvalds.

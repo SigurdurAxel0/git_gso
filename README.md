@@ -24,3 +24,5 @@ git clone clones a repository into a newly created directory
 5. Git leyfir hópi af fólki að vinna saman að nota sömu skrána.
 
 6. commit ætti að gera eftir hverja lausn því ef eithvað virkar ekki þá getur maður farið til baka á þann stað sem virkaði.
+
+7. Working directory er skrá í tölvu, staging area er skrá sem geymir upplýsinga sem á að fara í commit, Repository geymir commit upplýsingar.

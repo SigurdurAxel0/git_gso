@@ -20,3 +20,5 @@ git clone clones a repository into a newly created directory
 3. Git diff sýnir breytinguna milli tree og index
 
 4. Útgáfustyring er skjöl samþykkt af ábyrgðarmönnum og endurskoðun af uppfærslum af skjölum.
+
+5. Git leyfir hópi af fólki að vinna saman að nota sömu skrána.

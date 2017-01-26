@@ -18,3 +18,5 @@ git clone clones a repository into a newly created directory
 .git-checkout - switch branches or restore working tree files
 
 3. Git diff sýnir breytinguna milli tree og index
+
+4. Útgáfustyring er skjöl samþykkt af ábyrgðarmönnum og endurskoðun af uppfærslum af skjölum.

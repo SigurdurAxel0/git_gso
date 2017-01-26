@@ -6,13 +6,15 @@ C ls sýnur allt sem er í skráni sem maður er staddur á
 D pwd sýnir hvar þú ert staddur
 E mkdir býr til folder sem þú ert
 
-2
-A git clone clones a repository into a newly created directory
-B git log shows the commit logs.
-C git status - shows the working tree status
-D git-diff shows the changes between commits, commit and working tree, etc
-E git-checkout - switch branches or restore working tree file git clone clones a repository into a newly created directory
-B git log shows the commit logs.
-C git status - shows the working tree status
-D git-diff shows the changes between commits, commit and working tree, etc
-E git-checkout - switch branches or restore working tree files
+2.
+git clone clones a repository into a newly created directory
+.git log shows the commit logs.
+.git status - shows the working tree status
+.git-diff shows the changes between commits, commit and working tree, etc
+.git-checkout - switch branches or restore working tree file git clone clones a repository into a newly created directory
+.git log shows the commit logs.
+.git status - shows the working tree status
+.git-diff shows the changes between commits, commit and working tree, etc
+.git-checkout - switch branches or restore working tree files
+
+3. Git diff sýnir breytinguna milli tree og index

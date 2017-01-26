@@ -30,3 +30,5 @@ git clone clones a repository into a newly created directory
 8. Það er léttara að færa branch í commit.
 
 9. Linus Torvalds.
+
+10. Javascript, Java, Python og Ruby.
